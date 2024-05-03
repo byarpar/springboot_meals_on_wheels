@@ -8,7 +8,14 @@
 
 
 
-How to Run
+# How to Run
+
+# Running SpringBoot Car Portal Application
+
+
+```sql
+CREATE SCHEMA `springboot_carportal_db` DEFAULT CHARACTER SET utf8 ;
+
 
 #step 1
 CREATE SCHEMA `springboot_carportal_db` DEFAULT CHARACTER SET utf8 ;
@@ -36,3 +43,5 @@ INSERT INTO `springboot_carportal_db`.`user_role` (`user_id`, `role_id`) VALUES 
 
 #step 9 - Run as application & check On Browser
 http://localhost:8080/
+
+```
