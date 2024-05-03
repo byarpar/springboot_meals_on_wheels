@@ -1,3 +1,6 @@
+<img width="784" alt="Screenshot 2024-05-03 at 5 54 20 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/ff827420-dd79-4981-b6b1-47151de951bf">
+
+
 How to Run
 
 #step 1
