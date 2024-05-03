@@ -1,4 +1,11 @@
-<img width="784" alt="Screenshot 2024-05-03 at 5 54 20 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/ff827420-dd79-4981-b6b1-47151de951bf">
+<img width="802" alt="Screenshot 2024-05-03 at 6 15 12 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/14a03c48-97d5-4815-bf47-338634a4d970">
+<img width="819" alt="Screenshot 2024-05-03 at 6 17 20 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/18c46d9d-055e-42ae-86e9-7568955b2f68">
+[
+<img width="810" alt="Screenshot 2024-05-03 at 6 18 49 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/fb564fce-b139-4a16-80ba-047c2f31083b">
+](url)
+<img width="819" alt="Screenshot 2024-05-03 at 6 20 14 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/22effdd7-038a-485f-93d3-7d0b6f846c9a">
+<img width="733" alt="Screenshot 2024-05-03 at 6 21 02 PM" src="https://github.com/byarpar/react_portfolio_byarpar/assets/109275887/bad241e8-7f90-40c3-9d64-5ae86b5f523e">
+
 
 
 How to Run
