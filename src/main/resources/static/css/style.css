@@ -1,0 +1,30 @@
+
+
+        .card {
+    width: 80%;
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: inset 8px 2px 20px 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+        .card h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        .card a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .card a:hover {
+            text-decoration: underline;
+        }
+
+      
